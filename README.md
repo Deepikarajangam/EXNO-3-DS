@@ -31,7 +31,28 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       <img width="555" height="162" alt="image" src="https://github.com/user-attachments/assets/bba64168-f30b-421b-814a-be060ec2f58a" />
+
+       <img width="554" height="445" alt="image" src="https://github.com/user-attachments/assets/499b5eab-ed9e-47fa-829a-497358ff2d2b" />
+<img width="736" height="271" alt="image" src="https://github.com/user-attachments/assets/a6f4ee76-3d3c-444a-8680-ca0fb5abdb91" />
+<img width="684" height="461" alt="image" src="https://github.com/user-attachments/assets/3ac36d41-5ca9-4d1b-868e-8a884789df6d" />
+<img width="553" height="117" alt="image" src="https://github.com/user-attachments/assets/4b73326a-1dfb-4cf9-9622-bbfb4d2025d6" />
+<img width="664" height="457" alt="image" src="https://github.com/user-attachments/assets/2027886a-398c-46f7-831c-91614df047ee" />
+<img width="729" height="219" alt="image" src="https://github.com/user-attachments/assets/8bdd33d8-2a90-461a-be90-beaca4b77714" />
+<img width="896" height="657" alt="image" src="https://github.com/user-attachments/assets/f78c0434-b42d-4d9b-a5d2-1b13af5e36bd" />
+<img width="386" height="32" alt="image" src="https://github.com/user-attachments/assets/b7e66af4-6d47-4976-a0a7-62f870086710" />
+<img width="1327" height="413" alt="image" src="https://github.com/user-attachments/assets/d27ad974-9082-4a48-9d4b-cc108cea3956" />
+<img width="964" height="619" alt="image" src="https://github.com/user-attachments/assets/4e1bcb6b-b166-478b-ba6f-20b06de78a22" />
+<img width="870" height="449" alt="image" src="https://github.com/user-attachments/assets/51531b50-8986-4062-beb8-d67ce59e32eb" />
+<img width="752" height="177" alt="image" src="https://github.com/user-attachments/assets/b3f2dfdc-b3f1-4f97-9fe4-743746bdacf9" />
+<img width="681" height="432" alt="image" src="https://github.com/user-attachments/assets/d86d0970-eeea-48e6-9ead-338e5f597aa3" />
+
+
+
+
+
+    
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
